@@ -1,2 +1,2 @@
 # floodAlgorithm
-This code demonstrates other usage's of linkedGrids in java.
+This code demonstrates usage of linkedGrids by implementing a flood algorithm that connects similar nodes.
